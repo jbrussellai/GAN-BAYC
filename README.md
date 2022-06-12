@@ -1,6 +1,9 @@
 # GAN-BAYC
 Generative Adversarial Network *(GAN)* Fabricated BAYC Artwork
 
+![image](https://user-images.githubusercontent.com/78232682/173241369-e2a618a7-e4a6-4ff1-88f1-5fa83578d64d.png)
+
+
 ![image](https://user-images.githubusercontent.com/78232682/173234686-8f48b45e-007a-4ef1-b182-19013ed3e58d.png)
 
 
